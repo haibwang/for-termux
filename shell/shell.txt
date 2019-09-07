@@ -1,0 +1,35 @@
+this is a test!
+lets go , thiss good
+let's go,this's good
+u0_a162
+      July 2019     
+Su Mo Tu We Th Fr Sa
+    1  2  3  4  5  6
+ 7  8  9 10 11 12 13
+14 15 16 17 18 19 20
+21 22 23 24 25 26 27
+28 29 30 31         
+                    
+User info for userid: 10162
+UID:10162
+HOME:/home
+the cost of the item is 5
+the cost of the item is $15
+Katie checked in 10 days ago
+Jessica checked in 5 days ago
+command replace:date is : 19-07-07
+commnad relace: cal is:
+      July 2019     
+Su Mo Tu We Th Fr Sa
+    1  2  3  4  5  6
+ 7  8  9 10 11 12 13
+14 15 16 17 18 19 20
+21 22 23 24 25 26 27
+28 29 30 31         
+                    
+-rwx--x--x 1 u0_a162 u0_a162 2953 Jul 7 19:58 shell_basic.sh
+      134       460      2953
+math opreaion:var = 6
+The final result is 500
+The answer is .3333
+The final answer for this mess is 689.1882
