@@ -1,0 +1,2 @@
+# for-termux
+for termux
